@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/choudhary/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_ed76a45f9d46218c3261c18e609e23feff45a9fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/choudhary/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_b571a592dcc157dcc52eb059f30a2c09a574e92c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="270f3c46f7f0568c357a5214255ca35634f5f77e">
+        <dex dex="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_16c2284bb620f83525162eb03966fbb0ac126c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/choudhary/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_e9fb05243c789d91baeada00d0996a3c2c414ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebdf35c08ed4eef06edc64810af66bc57b8745ea">
+        <dex dex="/Users/choudhary/Documents/Untitled/Untitled/Project/Android/Tutorial/CustomListAdapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_da7f48d1eff91245f08d95565a7ddcbe294d5142/classes.dex" />
+    </item>
+
+</items>
