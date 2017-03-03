@@ -1,8 +1,9 @@
 # Custom ListView Adapter
 Custom List with Adapter using model &amp; gson library
-In this example we used Custom list adapter with model and gson library to read json files. Picasso is also used to show images in ImageView.
+In this example we demonstrated Custom list adapter with model and gson library to read json files. Picasso is also used to show images in ImageView.
 
 Kindly click below for video
+
 [Custom ListView Adapter](https://www.youtube.com/watch?v=UMSdD05NVYQ)
 
 Please don't forgot to subscribe my youtube channel. Thank you.
